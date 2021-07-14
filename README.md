@@ -14,3 +14,9 @@
 </a>
 
 </details>
+
+<b>Contact me</b>
+
+<a href="https://www.linkedin.com/in/lucasdemarchi9/">
+<img align="left" alt="in/lucas-dem/" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+</a>
