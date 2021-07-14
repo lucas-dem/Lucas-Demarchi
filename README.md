@@ -1,6 +1,6 @@
 <details>
-<summary><b>Hello there</b></summary>
-<img src="https://media2.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Hello there">
+<summary><b>How you doing?</b></summary>
+<img src="https://media.giphy.com/media/jOmQmJkjcvB3Bc8CRb/giphy.gif" alt="How you doing?">
 </details>
 
 <details>
